@@ -67,4 +67,30 @@ h3{
     border-radius: 5px;
 }
 
+
+
+#verde{
+    font-style:"bold";
+/*     font-size:"13.2cm";margin-left:"30px";  */
+    font-family: var(--font-family);
+    COLOR:rgba(225,225,225,225);
+
+    width:auto;
+    /*fundo verde  medio*/
+    background-COLOR:#4da516;
+
+
+}
+
+#roxo,.roxo{
+    font-style:"bold" ;
+    font-size:"13.2cm";
+    margin-left:"30px";
+    font-family: var(--font-family);
+    COLOR:var(--primary-color);
+    width:auto;
+    background-COLOR: #7b07f6;
+    
+}
+    
 /*https://colorhunt.co/palette/27282961677ad8d9dafff6e0*/
