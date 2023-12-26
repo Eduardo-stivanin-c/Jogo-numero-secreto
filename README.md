@@ -12,7 +12,7 @@ Opera(só Android)
 
 
 
-requer navegador Edge ou Google Chrome porque aAi só fbnunciona neles  . np recionhecoiimento
+requer navegador Edge ou Google Chrome porque Ai só funciona neles  . np recionhecoiimento
 a  condição (gambiara[0].innerHTML==String(numeroSecreto[15]+numeroSecreto[16]+numeroSecreto[17]+".") retoina  true se for igual a numeroSecreto + . e no Chorme só retona numeroSegreto sem ponto 
 
 
