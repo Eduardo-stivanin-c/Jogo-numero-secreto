@@ -1,0 +1,70 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap');
+
+
+/*variveis pra cahamaletras a fonte do Google*/
+:root{  --font-family: 'Montserrat', sans-serif;
+--bg-color:#272800;
+--primary-color:#FFF6E0;
+
+}
+
+/* preto de 
+  r g b 
+#272829 fundo
+
+tiro o azul pra simular filtro de luz azul diminuindo cansaço não sei se funciona ana no cançaso visual
+*/
+body{
+    /*não pegue o colirrio pq é em inmitando Darkreader em mode eescuro que eu adapateoi  otutorial*/
+    background-color: var(--bg-color);
+    color:var(--primary-color);
+
+    min-height:100vh;
+    display: flex;
+    flex-direction: column ;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin: 0;
+    font-family: var(--font-family);
+}
+
+h1{
+    font-size: 5em;
+}
+h2{
+    font-size: 4em;
+
+}
+h3{
+    font-size: 2em;
+    margin-top: 20px;
+}
+.mensagem{
+    font-size: 1.5em;
+    margin-top: 40px;
+}
+
+.box{
+    border: 2px solid var(--primary-color);
+    display: inline-block;
+    font-size: 4em;
+    padding: 10px;
+    margin: 20px;
+    
+}
+
+#btn-jogar{
+    /*estilo do botçao de restar pagina jogar novemnte*/
+    padding: 8px 15px;
+    border: 0;
+    margin-top: 20px;
+    /*cor de fundo*/
+    background: var(--primary-color);
+
+    /*arredondamento*/
+    border-radius: 5px;
+}
+
+/*https://colorhunt.co/palette/27282961677ad8d9dafff6e0*/
