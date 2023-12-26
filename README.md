@@ -1,5 +1,5 @@
 
-# Jogo  numero secreto
+# Jogo  número secreto
 
 
 reconhecimento de voz requer Chrome ou Edge ou Safari
